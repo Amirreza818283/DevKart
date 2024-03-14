@@ -24,7 +24,6 @@ C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.TagHelpers.i
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.TagHelpers.output.cache
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.RazorCoreGenerate.cache
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\ref\Devcard.dll
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.pdb
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.genruntimeconfig.cache
 C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Devcard.csproj.CopyComplete
+C:\Users\Hope\source\repos\DevKart\Devcard\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
