@@ -1,5 +1,7 @@
 ﻿using Devcard.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Diagnostics;
 
 
@@ -14,7 +16,20 @@ namespace Devcard.Controllers
         }
         public IActionResult Contact()
         {
-            return View();
+            var model = new Contact();
+            return View(model);
+        }
+        //[HttpPost]
+        //public IActionResult Contact(IFormCollection form)
+        //{
+        //    var email = form["email"];
+        //    return Json(Ok());
+        //}
+        [HttpPost]
+        public IActionResult Contact(Contact form)
+        {
+            Console.WriteLine(form.ToString());
+            return Json(Ok());
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
